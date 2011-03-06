@@ -1,6 +1,7 @@
 {
+  "offsite_url": "http:\/\/www.amandapalmer.net",
   "name": "Amanda Palmer",
   "url": "http:\/\/music.amandapalmer.net",
-  "band_id": 3463798201,
-  "subdomain": "amandapalmer"
+  "subdomain": "amandapalmer",
+  "band_id": 3463798201
 }

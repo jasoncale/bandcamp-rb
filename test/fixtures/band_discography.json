@@ -1,88 +1,103 @@
 {
   "discography": [
     {
-      "artist": "Amanda Palmer, The Young Punx, and Peaches",
-      "title": "Map of Tasmania: Remix Project",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/32\/84\/328400701-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/34\/95\/3495424101-1.jpg",
-      "release_date": 1297382400,
-      "album_id": 3396337511
+      "large_art_url": "http:\/\/bandcamp.com\/files\/33\/57\/3357571954-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/66\/24\/662451815-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "All Delighted People EP",
+      "release_date": 1282262400,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/all-delighted-people-ep",
+      "downloadable": 2,
+      "album_id": 670192006
     },
     {
-      "title": "Amanda Palmer Goes Down Under",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/25\/22\/2522179161-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/24\/32\/2432951411-1.jpg",
-      "release_date": 1295568000,
-      "album_id": 3249639063
+      "large_art_url": "http:\/\/bandcamp.com\/files\/40\/30\/4030304357-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/88\/46\/884650348-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "Illinois",
+      "release_date": 1120521600,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/illinois",
+      "downloadable": 2,
+      "album_id": 781775666
     },
     {
-      "artist": "Tristan Allen",
-      "title": "Tristan Allen",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/40\/97\/4097593083-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/16\/85\/1685165534-1.jpg",
-      "release_date": 1292112000,
-      "album_id": 2142494925
+      "large_art_url": "http:\/\/bandcamp.com\/files\/10\/84\/1084754880-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/40\/95\/4095662251-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "Songs for Christmas",
+      "release_date": 1164067200,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/songs-for-christmas",
+      "downloadable": 2,
+      "album_id": 798104856
     },
     {
-      "artist": "Amanda Palmer & Friends",
-      "title": "AFP's Webcastacular NYC Extravaganzaca!",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/32\/15\/3215210279-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/20\/15\/2015333847-1.jpg",
-      "release_date": 1285200000,
-      "album_id": 2559708672
+      "large_art_url": "http:\/\/bandcamp.com\/files\/39\/56\/3956906086-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/26\/22\/2622093179-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "A Sun Came",
+      "release_date": 1090281600,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/a-sun-came",
+      "downloadable": 2,
+      "album_id": 832878843
     },
     {
-      "title": "Amanda Palmer Performs The Popular Hits Of Radiohead On Her Magical Ukulele",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/16\/71\/1671735065-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/14\/68\/1468437195-1.jpg",
-      "release_date": 1279584000,
-      "album_id": 1003295408
+      "large_art_url": "http:\/\/bandcamp.com\/files\/23\/39\/2339524452-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/24\/97\/2497262513-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "The Avalanche",
+      "release_date": 1152576000,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/the-avalanche",
+      "downloadable": 2,
+      "album_id": 2566673686
     },
     {
-      "title": "Behavior [feat. Mat Devine, Erica Iozzo, and Caroline]",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/25\/02\/2502776621-1.jpg",
-      "track_id": 827639211,
-      "small_art_url": "http:\/\/bandcamp.com\/files\/38\/96\/3896020337-1.jpg",
-      "release_date": 1277769600,
-      "downloadable": 2
+      "large_art_url": "http:\/\/bandcamp.com\/files\/10\/56\/1056824311-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/95\/38\/953814775-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "The BQE",
+      "release_date": 1255996800,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/the-bqe",
+      "downloadable": 2,
+      "album_id": 2716113933
     },
     {
-      "title": "Do You Swear To Tell The Truth The Whole Truth And Nothing But The Truth So Help Your Black Ass",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/23\/01\/2301256218-1.jpg",
-      "track_id": 1925461624,
-      "small_art_url": "http:\/\/bandcamp.com\/files\/19\/41\/1941200379-1.jpg",
-      "release_date": 1270512000,
-      "downloadable": 2
+      "large_art_url": "http:\/\/bandcamp.com\/files\/39\/60\/3960395853-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/24\/78\/2478898029-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "Michigan",
+      "release_date": 1057017600,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/michigan",
+      "downloadable": 2,
+      "album_id": 3978284670
     },
     {
-      "title": "Neil Gaiman Reading [feat. Zo\u00eb Keating & Lyndon Chester]",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/13\/25\/1325495484-1.jpg",
-      "track_id": 2205445888,
-      "small_art_url": "http:\/\/bandcamp.com\/files\/72\/52\/72527326-1.jpg",
-      "release_date": 1248048000,
-      "downloadable": 2
+      "large_art_url": "http:\/\/bandcamp.com\/files\/26\/51\/2651805412-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/26\/38\/2638959808-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "Enjoy Your Rabbit",
+      "release_date": 1018915200,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/enjoy-your-rabbit",
+      "downloadable": 2,
+      "album_id": 4180322227
     },
     {
-      "artist": "Amanda Palmer & Murder By Death",
-      "title": "7 Series (Part 3)",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/31\/77\/317704748-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/35\/89\/3589811923-1.jpg",
-      "release_date": 1242345600,
-      "album_id": 2787452331
-    },
-    {
-      "title": "Who Killed Amanda Palmer [Alternate Tracks]",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/33\/28\/3328454846-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/17\/26\/172695457-1.jpg",
-      "release_date": 1230076800,
-      "album_id": 321711561
-    },
-    {
-      "title": "Who Killed Amanda Palmer",
-      "large_art_url": "http:\/\/bandcamp.com\/files\/41\/81\/41814958-1.jpg",
-      "small_art_url": "http:\/\/bandcamp.com\/files\/33\/09\/3309055932-1.jpg",
-      "release_date": 1221523200,
-      "album_id": 2587417518
+      "large_art_url": "http:\/\/bandcamp.com\/files\/69\/08\/690853356-1.jpg",
+      "small_art_url": "http:\/\/bandcamp.com\/files\/10\/32\/1032688205-1.jpg",
+      "artist": "Sufjan Stevens",
+      "title": "The Age of Adz",
+      "release_date": 1286841600,
+      "band_id": 203035041,
+      "url": "http:\/\/music.sufjan.com\/album\/the-age-of-adz",
+      "downloadable": 2,
+      "album_id": 4246425639
     }
   ]
 }
