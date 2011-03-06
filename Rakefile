@@ -21,8 +21,8 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "bandcamp-rb"
-  s.version           = "0.1.0"
-  s.summary           = "Simple wrapper around Bandcamp.com API v1"
+  s.version           = "0.1.1"
+  s.summary           = "Simple wrapper around Bandcamp.com API v1-3"
   s.author            = "Jason Cale"
   s.email             = "jase@gofreerange.com"
   s.homepage          = "http://gofreerange.com"
