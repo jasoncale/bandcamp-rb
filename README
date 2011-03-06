@@ -1,20 +1,20 @@
 Bandcamp API.
 
 Very simple API around the information listed on this blog post from Bandcamp:
-http://bandcamptech.wordpress.com/2010/05/15/bandcamp-api/
+http://bandcamptech.wordpress.com/2011/03/03/bandcamp-api-2/
 
 # Getting started
 
 Bandcamp::Base.api_key = 'SECRET_API_KEY' # email Bandcamp support <support@bandcamp.com> for an API key
 
 # Get band info
-@band = Bandcamp::Band.new('3463798201')
+@band = Bandcamp::Band.load('3463798201')
 
 @band.name #=> "Amanda Palmer"
 
 # Get album
-@album = Bandcamp::Album.new("2587417518")
+@album = Bandcamp::Album.load("2587417518")
 
 @album.title #=> "Who Killed Amanda Palmer"
 
-Check out the tests for all the information you need ..
+Check out the tests for all the information you need .. all the API methods are covered.
